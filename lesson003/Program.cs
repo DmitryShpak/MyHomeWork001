@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(" 3 Hello, World!");
+﻿Console.WriteLine("Введите число:");
+int n = int.Parse(Console.ReadLine());
+
+if (n % 2 == 0) 
+    {
+    Console.WriteLine("Число четное");
+    }
+else
+ {
+Console.WriteLine("Число нечетное");
+}
