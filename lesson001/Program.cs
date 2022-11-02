@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите первое число");
+﻿// Нахождение большего из двух чисел
+Console.WriteLine("Введите первое число");
 string Sa = Console.ReadLine();
 Console.WriteLine("Введите второе число");
 string Sb = Console.ReadLine(); 
