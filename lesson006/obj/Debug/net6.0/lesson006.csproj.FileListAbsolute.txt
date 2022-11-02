@@ -1,0 +1,15 @@
+C:\W\MyHomeWork\lesson006\bin\Debug\net6.0\lesson006.exe
+C:\W\MyHomeWork\lesson006\bin\Debug\net6.0\lesson006.deps.json
+C:\W\MyHomeWork\lesson006\bin\Debug\net6.0\lesson006.runtimeconfig.json
+C:\W\MyHomeWork\lesson006\bin\Debug\net6.0\lesson006.dll
+C:\W\MyHomeWork\lesson006\bin\Debug\net6.0\lesson006.pdb
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.csproj.AssemblyReference.cache
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.GeneratedMSBuildEditorConfig.editorconfig
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.AssemblyInfoInputs.cache
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.AssemblyInfo.cs
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.csproj.CoreCompileInputs.cache
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.dll
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\refint\lesson006.dll
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.pdb
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\lesson006.genruntimeconfig.cache
+C:\W\MyHomeWork\lesson006\obj\Debug\net6.0\ref\lesson006.dll
