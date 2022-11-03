@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Введите цифру обозначающую день недели:");
+ string S = Console.ReadLine();
+int n = int.Parse(S);
+if (n == 1) Console.WriteLine("нет");
+if (n == 3) Console.WriteLine("нет");
+if (n == 2) Console.WriteLine("нет");
+if (n == 4) Console.WriteLine("нет");
+if (n == 5) Console.WriteLine("нет");
+if (n == 6) Console.WriteLine("да");
+if (n == 7) Console.WriteLine("да");
