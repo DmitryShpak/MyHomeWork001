@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(" 5 Hello, World!");
+﻿Console.WriteLine("Введите трехзначное число от 100 до 999");
+
+string n = (Console.ReadLine());
+
+Console.WriteLine(n[1].ToString());
