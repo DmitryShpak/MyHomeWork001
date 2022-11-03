@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(" 6 ello, World!");
+﻿
+Console.WriteLine("Введите число:");
+string n = (Console.ReadLine());
+if (int.Parse(n) >100)
+{
+Console.WriteLine(n[2].ToString());
+}
+else {
+    Console.WriteLine("Третьей цифры  нет");
+}
