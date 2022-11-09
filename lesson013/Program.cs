@@ -12,3 +12,4 @@ int  Output(int a)
 {
     return numbers[a];
 }
+
